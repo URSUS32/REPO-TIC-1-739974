@@ -1,6 +1,7 @@
 #Ignorar archivos terminados en ".log" 
 #y contenidos en la carpeta "modules" en raíz
 *.log
-/modules/*
 !/modules
+/modules/*
+
 
